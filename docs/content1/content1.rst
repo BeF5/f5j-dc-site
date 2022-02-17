@@ -1,6 +1,6 @@
 CE - VMware
 ================================================
-※本資料の画面表示は資料作成時点の画面表示を利用しております。アップデート等より表示が若干異なる場合がございます。
+※本資料の画面表示や名称は資料作成時点の画面表示を利用しております。アップデート等より表示が若干異なる場合がございます。
 
 手順概要
 -------
@@ -25,7 +25,7 @@ ConsoleからHome　> Cloud and Edge Sites > Manage > Site Management > Cloud Cr
 -------
 siteのイメージを以下よりダウンロードします。
 
-https://www.volterra.io/docs/images
+https://docs.cloud.f5.com/docs/images
 
 .. image:: ../content1/img/img-2.png
 
@@ -44,7 +44,7 @@ https://www.volterra.io/docs/images
 
 4.レジストレーション
 -------
-初期設定したSiteはインターネット経由で自動でves.volterra.ioへアクセスし、Consoleに表示されます。
+初期設定したSiteはインターネット経由で自動でF5 Destributed Cloud Servicesへアクセスし、Consoleに表示されます。
 
 Home　> Cloud and Edge Sites > Manage > Site Management > Registrationsと選択し、操作します。
 

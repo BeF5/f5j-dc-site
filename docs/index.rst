@@ -5,16 +5,14 @@ F5 Distributed Cloud セットアップガイド - Site編 - Index
 ==================
 はじめに
 -------
-このページでは、これらのオフィシャルなドキュメントの補足となる資料や、複数の機能を組合せてソリューションを実現する方法をご紹介いたします。 F5のオフィシャルなドキュメントはこちらにございます。
+本資料はF5 Distributed Cloud　Servicesのsiteを各CE、CSPへ構築する手順の概要についてご案内します。
 
-+AskF5: https://support.f5.com/csp/home
-+F5 Cloud Docs: https://clouddocs.f5.com/
-+F5 DevCentral（コミュニティ）: https://devcentral.f5.com/
-+F5 Distributed Cloud Docs：　https://www.volterra.io/docs/
+F5のオフィシャルなドキュメントはこちらにございます。
+
++F5 Distributed Cloud Docs：　https://docs.cloud.f5.com/docs/
 
 コンテンツ
 -------
-本ガイはF5 Distributed Cloudのsiteを各CE、CSPへ構築する手順の概要についてご案内します。
 Siteを構築する対象は以下です。
 
 1.CE : Vmware
@@ -26,6 +24,8 @@ Siteを構築する対象は以下です。
 4.CSP : Azure
 
 5.CSP : GCP
+
+※本資料の画面表示や名称は資料作成時点の画面表示を利用しております。アップデート等より表示が若干異なる場合がございます。
 
 
 .. toctree::
