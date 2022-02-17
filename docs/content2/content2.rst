@@ -14,6 +14,7 @@ CE – Volterra HW
 1.トークン発行
 -------
 ConsoleからHome　> Cloud and Edge Sites > Manage > Site Management > Cloud Credentialsと選択し、
+
 トークンを発行します。(全CEで同じTokenが使えます)
 
 .. image:: ../content2/img/img-1.png
@@ -21,7 +22,9 @@ ConsoleからHome　> Cloud and Edge Sites > Manage > Site Management > Cloud Cr
 2.初期アクセス
 -------
 HWへSSHアクセスします。（admin/Volterra123）
+
 DHCPによりインターネットへアクセスでき、DNSによる名前解決ができる場合は“Configure”を選択します。
+
 ※できない場合は“configure-network”でインターネットアクセスするためのパラメータを手動設定します。
 
 今回は、DHCPによりインターネットへアクセスでき、DNSによる名前解決が可能な環境での設定手順をご案内します。
