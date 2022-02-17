@@ -15,8 +15,8 @@ CE - VMware
 
 1.トークン発行
 -------
-ConsoleのHomeから"Cloud and Edge Sites"を選択し、
-メニュー中の"Manage"からSite Management > site tokenと選択し、トークンを発行します。(全CEで同じTokenが使えます)
+ConsoleからHome　> Cloud and Edge Sites > Manage > Site Management > Cloud Credentialsと選択し、
+トークンを発行します。(全CEで同じTokenが使えます)
 
 .. image:: ../content1/img/img-1.png
 
