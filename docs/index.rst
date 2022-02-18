@@ -11,10 +11,8 @@ F5のオフィシャルなドキュメントはこちらにございます。
 
 +F5 Distributed Cloud Docs：　https://docs.cloud.f5.com/docs/
 
-コンテンツ
+Site構築対象
 -------
-Siteを構築する対象は以下です。
-
 1.CE : Vmware
 
 2.CE : Volterra HW
