@@ -9,7 +9,7 @@ F5 Distributed Cloud セットアップガイド - Site編
 
 F5のオフィシャルなドキュメントはこちらにございます。
 
-・F5 Distributed Cloud Docs：　https://docs.cloud.f5.com/docs/
+-F5 Distributed Cloud Docs：　https://docs.cloud.f5.com/docs/
 
 Site構築対象
 -------

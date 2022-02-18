@@ -5,15 +5,10 @@ Site - GCP
 手順概要
 -------
 1.gcloudコマンドラインツール
-
 2.GCP Role、Service Account作成
-
 3.GCP Key作成
-
 4.GCP Cloud Credential
-
 5.GCP Site作成
-
 6.ステータス確認
 
 
