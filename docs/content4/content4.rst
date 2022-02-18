@@ -5,9 +5,13 @@ Site - Azure
 手順概要
 -------
 1.Azureカスタムロール
+
 2.Azure Service Principalアカウント
+
 3.Credential作成
+
 4.Azure Site作成
+
 5.ステータス確認
 
 
