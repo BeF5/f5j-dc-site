@@ -1,14 +1,14 @@
 .. You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-F5 Distributed Cloud セットアップガイド - Site編
+XC セットアップガイド - Site編
 ==================
 
 F5ネットワークジャパン テクニカルインフォへようこそ！このページでは、F5のエンジニアが、日々の活動の中で得た成果を日本語で発信いたします。記載の内容について、より詳しい情報を必要とされる方は、担当営業・SE または `F5への問い合わせ <https://interact.f5.com/ContactFormJP.html?ls=meta>`__ までご連絡ください。
 
 はじめに
 -------
-本資料はF5 Distributed Cloud　Servicesのsiteを各CE、CSPへ構築する手順の概要についてご案内します。
+本資料はF5 Distributed Cloud Services(XC)のsiteを各CE(Customer Edge)、CSP(Cloud Service Provider)へ構築する手順の概要についてご案内します。
 F5のオフィシャルなドキュメントはこちらにございます。
 
 - F5 Distributed Cloud Docs：　https://docs.cloud.f5.com/docs/
