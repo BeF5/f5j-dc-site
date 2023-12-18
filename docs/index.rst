@@ -8,7 +8,7 @@ F5ネットワークジャパン テクニカルインフォへようこそ！�
 
 はじめに
 -------
-本資料はF5 Distributed Cloud Services(XC)のsiteを各CE(Customer Edge)、CSP(Cloud Service Provider)へ構築する手順の概要についてご案内します。
+本資料はF5 Distributed Cloud Services(XC)のsiteを各Customer Edge(CE)、Cloud Service Provider(CSP)へ構築する手順の概要についてご案内します。
 F5のオフィシャルなドキュメントはこちらにございます。
 
 - F5 Distributed Cloud Docs：　https://docs.cloud.f5.com/docs/
