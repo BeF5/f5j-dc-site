@@ -15,13 +15,18 @@ CE – Volterra HW
 
 1.トークン発行
 -------
-ConsoleからHome　> Cloud and Edge Sites > Manage > Site Management > Cloud Credentialsと選択し、トークンを発行します。(全CEで同じTokenが使えます)
+ConsoleからHome　> Multi-Cloud Network Connect > Manage > Site Management > Site Tokensと選択し、Add Site Tokenよりトークンを発行します。(全CEで同じTokenが使えます)
 
-.. image:: ../content2/img/img-1.png
+.. image:: ../content2/img/Picture1.png
+
+任意の名前を入力し、Save and Exitを選択します。
+
+.. image:: ../content2/img/Picture2.png
+
 
 2.初期アクセス
 -------
-HWへSSHアクセスします。（admin/Volterra123）
+HWへSSHでアクセスします。(初期ログインID/パスワード:  admin/Volterra123)
 
 DHCPによりインターネットへアクセスでき、DNSによる名前解決ができる場合は“Configure”を選択します。
 
@@ -34,9 +39,9 @@ DHCPによりインターネットへアクセスでき、DNSによる名前解�
 
 3.レジストレーション
 -------
-初期設定したSiteはインターネット経由で自動でves.volterra.ioへアクセスし、Consoleに表示されます。
+初期設定したSiteはインターネット経由で自動的にXC(ves.volterra.io)へアクセスし、Consoleに表示されます。
 
-Home　> Cloud and Edge Sites > Manage > Site Management > Registrationsと選択し、操作します。
+Home　> Multi-Cloud Network Connect > Manage > Site Management > Registrationと選択し、Siteの登録を行います。
 
 .. image:: ../content2/img/img-4.png
 
@@ -46,9 +51,12 @@ Home　> Cloud and Edge Sites > Manage > Site Management > Registrationsと選�
 -------
 約20-30分後にステータス確認します。
 
-Home > Cloud and Edge Sites > Sites > Site Listと選択します。
+Home > Multi-Cloud Network Connect > Overview > Sites内 DashboardのSitesから対象Siteを確認します。
 
 .. image:: ../content2/img/img-6.png
+
+以上で、CEの初期設定は終了です。
+
 
 .. toctree::
    :titlesonly:
