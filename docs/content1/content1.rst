@@ -53,7 +53,7 @@ VMwareのコンソールからインストールを実施します。
 
 4.レジストレーション
 -------
-初期設定したSiteはインターネット経由で自動的にXCへアクセスし、Consoleに表示されます。
+初期設定したSiteはインターネット経由で自動的にXC(ves.volterra.io)へアクセスし、Consoleに表示されます。
 
 Home　> Multi-Cloud Network Connect > Manage > Site Management > Registrationと選択し、Siteの登録を行います。
 
